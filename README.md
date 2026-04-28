@@ -6,11 +6,11 @@ Projeto simples desenvolvido em **Python** utilizando **Programação Orientada 
 
 ##  Funcionalidades
 
-- ✅ Cadastro de restaurantes  
-- ✅ Alteração de status (Ativo / Inativo)  
-- ✅ Registro de avaliações  
-- ✅ Cálculo da média das avaliações  
-- ✅ Listagem de restaurantes cadastrados  
+- Cadastro de restaurantes  
+- Alteração de status (Ativo / Inativo)  
+- Registro de avaliações  
+- Cálculo da média das avaliações  
+- Listagem de restaurantes cadastrados  
 
 ---
 
@@ -26,7 +26,7 @@ Projeto simples desenvolvido em **Python** utilizando **Programação Orientada 
 
 ---
 
-## ▶️ Como executar
+## Como executar
 
 No terminal, execute:
 
