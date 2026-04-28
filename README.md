@@ -9,7 +9,7 @@ Projeto simples em Python utilizando Programação Orientada a Objetos.
 - Cálculo da média de avaliações
 - Listagem de restaurantes
 
-## Conceitos utilizados
+##c Conceitos utilizados
 - Classes
 - Relacionamento entre classes
 - @property
